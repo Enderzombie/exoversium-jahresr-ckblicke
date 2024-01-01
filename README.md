@@ -4,6 +4,9 @@ In diesem Github Repository findest du alle Jahresrückblicke vom Exoversium, we
 ## Exoversium Jahresrückblick 2022
 `/Exoversium_Jahresrückblick_2022.md`
 
+## Exoversium Jahresrückblick 2023
+`/Exoversium_Jahresrückblick_2023.md`
+
 # Copyright
 Die Texte in den Dateien dieses Github Repositorys sind urheberrechtlich geschüchützt und dürfen in einer 1 zu 1 Fassung nicht verwendet werden! Auch bei Überarbeitungen sind Rückfragen an mich erforderlich, um diese veröffentlichen zu dürfen!
 
